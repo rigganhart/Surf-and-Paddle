@@ -1,0 +1,181 @@
+body header a {
+  text-decoration: none;
+  color: #000;
+}
+header {
+  width: 100%;
+  height: 325px;
+  margin: 0 auto;
+  background-image: url("images/blue-ocean-wave.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+header h2 {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  font-size: 6em;
+  margin-bottom: 0;
+  color: #fff;
+
+}
+header h5 {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  color: #000;
+
+}
+header ul li {
+  display:inline-block;
+}
+.blog {
+  margin-left: 10%;
+  margin-right: 41%;
+}
+.search {
+  margin-left: 2%;
+}
+.nav-icon {
+  width: 32px;
+}
+header nav ul {
+  margin: 0;
+    display: inline-block;
+    list-style: none;
+    width: 100%;
+}
+
+.middle {
+  margin-top: 1%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  margin-left: 10%;
+  width: 50%;
+  display: inline-block;
+}
+.middle h1 {
+    font-family: Impact,sans-serif;
+    font-size: 5em;
+    font-weight: 300;
+    display: inline-block;
+    margin-top: 5%;
+}
+.middle h5  {
+  display: inline-block;
+  color: #3277CC;
+  font-size: 1em;
+}
+.middle h6 {
+  display: inline-block;
+  text-decoration: underline;
+  color: #A7A2A2;
+}
+.middle h2 {
+  font-size: 2em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  color: #3277CC;
+  padding-left: 3%;
+  border-left: 1px solid grey;
+}
+.middle ul {
+  display: inline-block;
+  width: 100%;
+  padding: 0;
+}
+.middle ul li {
+  display: inline-block;
+
+}
+section li a {
+  height: 30px;
+  width: 150px;
+  display: inline-block;
+  background-color: #3E94FF;
+  text-align: right;
+  margin-left: 40%;
+  position: relative;
+  border: 1px solid black;
+}
+
+/* right aside*/
+.right-aside {
+  vertical-align: top;
+  margin-top: 5%;
+  width: 32%;
+  display: inline-block;
+}
+
+.small-pic {
+  display: inline-block;
+  width: 100px;
+  height: 68px;
+  border-radius: 47%;
+}
+aside .small-pic {
+  margin-left: 5%;
+  margin-left: 36%;
+}
+aside ul {
+  display: inline-block;
+    width: 100%;
+    list-style: none;
+}
+aside ul li {
+  display: inline-block;
+  margin-left: 9%;
+}
+aside h3 {
+  text-align: center;
+  color: #3277CC;
+}
+.large-pic {
+  width: 300px;
+  margin-left: 15%;
+}
+aside h4 {
+    text-align: center;
+    color: #3277CC
+}
+
+/*FOOTER*/
+footer {
+  border-top: 1px solid gray;
+    /* background-color: #435E7F; */
+}
+footer h1 {
+      width: 100%;
+      font-size: 3em;
+      font-family: Helvetica;
+      font-weight: 100;
+      text-align: center;
+      margin-bottom: 1%;
+      margin-top: 1%;
+}
+footer ul {
+    display: inline-block;
+    list-style: none
+}
+.footer-photo a {
+  width: 150px;
+  height: 200px;
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+}
+.footer-photo ul {
+  width: 100%;
+  height  200px;
+  display: inline-block;
+}
+.footer-photo ul li {
+  width: 25%;
+  display: inline-block;
+}
+.footer-nav {
+  background-color: #435e7f;
+  font-family: Helvetica;
+}
